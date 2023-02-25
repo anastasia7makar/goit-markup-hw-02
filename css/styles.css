@@ -71,6 +71,7 @@ body {
 li>.e-mail,
 li>.ph-number {
     font-weight: 500;
+    color: var(--primary-text-color);
 }
 
 li .e-mail:hover,
